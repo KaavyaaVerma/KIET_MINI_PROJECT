@@ -1,2 +1,2 @@
 # KIET_MINI_PROJECT
-#The Game Site mini project is a web-based platform designed to offer users access to multiple games within a single site. The primary objective of the platform is to provide an engaging and interactive experience for players by offering a variety of games in one consolidated location. The site supports a seamless gaming experience by integrating different types of games, ranging from casual puzzles to more complex strategy games, all accessible through a user-friendly interface.
+#A Game Site 
